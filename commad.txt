@@ -1,0 +1,3 @@
+to start -> npm init
+npm install express
+npm install pug
